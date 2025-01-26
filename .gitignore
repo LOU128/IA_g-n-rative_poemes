@@ -1,0 +1,13 @@
+# .gitignore
+# Ignorer les environnements virtuels
+venv/
+
+# Fichiers temporaires
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Logs
+logs/
+*.log
