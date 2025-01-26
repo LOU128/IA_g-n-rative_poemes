@@ -1,4 +1,4 @@
-transformers==4.25.1
+transformers==4.38.0
 torch>=1.12.0,<2.0  # Limité à Torch 1.x pour stabilité avec Transformers 4.25.1
 streamlit==1.15.0
 nltk==3.8.1
